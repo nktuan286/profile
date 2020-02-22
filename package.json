@@ -1,7 +1,7 @@
 {
-  "name": "react-starter-kit",
+  "name": "profile",
   "version": "1.0.0",
-  "description": "An ES6 ready React + Express starter kit",
+  "description": "Your profile - portfolio - resume",
   "main": "src/server.js",
   "scripts": {
     "start": "node ./app/index.js",
@@ -9,22 +9,7 @@
     "build-prod": "NODE_ENV=production gulp build",
     "watch": "gulp watch"
   },
-  "author": "Cole Murray <@colemurray.cs@gmail.com>",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ColeMurray/react-express-starter-kit.git"
-  },
-  "bugs": {
-    "url": "https://github.com/ColeMurray/react-express-starter-kit/issues"
-  },
-  "keywords": [
-    "react",
-    "es6",
-    "node",
-    "express",
-    "gulp"
-  ],
+  "author": "tuankim",
   "dependencies": {
     "express": "^4.13.4",
     "morgan": "^1.7.0",
