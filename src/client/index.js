@@ -1,11 +1,12 @@
 import React from "react";
 import ReactDOM from "react-dom";
+// const profilePic = require('../../public/img/img-profile.jpg');
 
 class Header extends React.Component {
     render() {
-
         return (
-            <div> Hello World.</div>
+            <div>
+            </div>
         )
     }
 }
